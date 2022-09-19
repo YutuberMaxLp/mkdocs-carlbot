@@ -29,7 +29,7 @@
 	
 	| Name | Example | Usage |
 	| :--- | :--- | :--- |
-	| **addrank &lt;roles...&gt;** | !addrank fortnite weeb "f1 fanatic" "koishi fanboy" "tomato lover" | Adds one or more roles to the list of authorized ranks that members can assign to themselves. |
+	| **addrank &lt;roles1020726750516363416...&gt;** | !addrank fortnite weeb "f1 fanatic" "koishi fanboy" "tomato lover" | Adds one or more roles to the list of authorized ranks that members can assign to themselves. |
 	| **removerank &lt;roles...&gt;** | !removerank fortnite "f1 fanatic" | Removes one or more roles from the list of authorized ranks, so that it can no longer be self assigned. |
 	| **ranks** | !ranks | Lists all authorized ranks. |
 	| **rank &lt;role&gt;** | !rank fortnite | Adds/removes the role to the person who used the command. Requires the role to be on the list of authorized ranks. |
